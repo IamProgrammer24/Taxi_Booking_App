@@ -12,6 +12,7 @@ const App = () => {
         <Route path="/" element={<Start />} />
         <Route path="/login" element={<UserLogin />} />
         <Route path="captain-login" element={<CaptainLogin />} />
+        start form 2.27
         {/*<Route path="/riding" element={<Riding />} />
         <Route path="/captain-riding" element={<CaptainRiding />} /> */}
       </Routes>
